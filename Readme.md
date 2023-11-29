@@ -1,10 +1,59 @@
-# osu! Cursors and Cursor Customization
+<h1 align="center">
+    <a href="https://github.com/keatonkraiger/osu-Cursor-Collection-and-Customizer">
+        <img src="assets/logo.jpg" alt="logo" width="400" height="400">
+    </a>
 
+    osu! Cursor Collection and Customizer
+</h1>
+
+
+<details open="open">
+<summary>Table of Contents</summary>
+
+- [About](#about)
+- [Cursor Collection](#cursor-collection)
+  - [404](#404)
+  - [FlyingTuna](#flyingtuna)
+  - [Rafis](#rafis)
+  - [Xooty](#xooty)
+- [Curosr Customization](#curosr-customization)
+  - [Cursor Colorizer](#cursor-colorizer)
+    - [Requirements](#requirements)
+    - [Installation](#installation)
+    - [Local Usage](#local-usage)
+</details>
+
+## <a name="about">About</a>
 **This is an *unofficial* collection of osu! cursors and tools to customize them.** I'll be continuously adding more cursors and customization tools to this repository. If you have any cursors you would like to add, please lmk.
 
-## <a name="curors">Cursors</a>
+## <a name="cursors">Cursor Collection</a>
 
 Below is a collection of popular cursors for osu! std. These cursors are not mine, but I have collected them from various skins. If you are the creator of one of these cursors and would like it removed, please contact me.
+
+### 404
+
+| Blue | Lavender | Lilac | Original |
+| --- | --- | --- | --- |
+| [![Blue](Cursors/404/Blue_cursor.png)](Cursors/404/Blue_cursor.png) | [![Lavender](Cursors/404/Lavender_cursor.png)](Cursors/404/Lavender_cursor.png) | [![Lilac](Cursors/404/Lilac_cursor.png)](Cursors/404/Lilac_cursor.png) | [![Original](Cursors/404/Original_cursor.png)](Cursors/404/Original_cursor.png) |
+
+### FlyingTuna
+
+| MathiTuna | Selyu |
+| --- | --- |
+| [![MathiTuna](Cursors/FlyingTuna/MathiTuna/cursor.png)](Cursors/FlyingTuna/MathiTuna/cursor.png) | [![Selyu](Cursors/FlyingTuna/Selyu/cursor.png)](Cursors/FlyingTuna/Selyu/cursor.png) |
+
+### Rafis
+
+| Blue | Light Green | Yellow Original |
+| --- | --- | --- |
+| [![Blue](Cursors/Rafis/Blue/cursor.png)](Cursors/Rafis/Blue/cursor.png) | [![Light Green](Cursors/Rafis/Light_Green/cursor.png)](Cursors/Rafis/Light_Green/cursor.png) | [![Yellow Original](Cursors/Rafis/Yellow_Original/cursor.png)](Cursors/Rafis/Yellow_Original/cursor.png) |
+
+### Xooty
+
+| Xooty Smile | Yellow Blue Tail |
+| --- | --- |
+| [![Xooty Smile](Cursors/Xooty/Xooty_Smile/cursor.png)](Cursors/Xooty/Xooty_Smile/cursor.png) | [![Yellow Blue Tail](Cursors/Xooty/Yellow_Blue_Tail/cursormiddle.png)](Cursors/Xooty/Yellow_Blue_Tail/cursormiddle.png) |
+
 
 ## <a name="cursor_customize">Curosr Customization</a>
 
@@ -22,8 +71,6 @@ The cursor colorizer is a tool that allows you to change the color of a cursor. 
 - Pillow
 
 #### Installation
-
-
 
 To run the cursor colorizer locally, you must first have Python 3.0+ installed. You can download Python [here](https://www.python.org/downloads/). You will then need to use pip to install Pillow. You can do this by running the following commands in your terminal:
 
