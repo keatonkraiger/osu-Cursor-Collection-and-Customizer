@@ -12,10 +12,10 @@
 
 - [About](#about)
 - [Cursor Collection](#cursor-collection)
-  - [404](#404)
-  - [FlyingTuna](#flyingtuna)
   - [Rafis](#rafis)
   - [Xooty](#xooty)
+  - [404](#404)
+  - [FlyingTuna](#flyingtuna)
 - [Curosr Customization](#curosr-customization)
   - [Cursor Colorizer](#cursor-colorizer)
     - [Requirements](#requirements)
@@ -30,6 +30,18 @@
 
 Below is a collection of popular cursors for osu! std. These cursors are not mine, but I have collected them from various skins. If you are the creator of one of these cursors and would like it removed, please contact me.
 
+### Rafis
+
+| Blue | Light Green | Yellow Original |
+| --- | --- | --- |
+| [![Blue](Cursors/Rafis/Blue/cursor.png)](Cursors/Rafis/Blue/cursor.png) | [![Light Green](Cursors/Rafis/Light%20Green/cursor.png)](Cursors/Rafis/Light%20Green/cursor.png) | [![Yellow Original](Cursors/Rafis/Yellow%20Original/cursor.png)](Cursors/Rafis/Yellow%20Original/cursor.png) |
+
+### Xooty
+
+| Xooty Smile | Yellow Blue Tail |
+| --- | --- |
+| [![Xooty Smile](Cursors/Xooty/Xooty%20Smile/cursor.png)](Cursors/Xooty/Xooty%20Smile/cursor.png) | [![Yellow Blue Tail](Cursors/Xooty/Yellow%20Blue%20Tail/cursormiddle.png)](Cursors/Xooty/Yellow%20Blue%20Tail/cursormiddle.png) |
+
 ### 404
 
 | Blue | Lavender | Lilac | Original |
@@ -42,17 +54,6 @@ Below is a collection of popular cursors for osu! std. These cursors are not min
 | --- | --- |
 | [![MathiTuna](Cursors/FlyingTuna/MathiTuna/cursor.png)](Cursors/FlyingTuna/MathiTuna/cursor.png) | [![Selyu](Cursors/FlyingTuna/Selyu/cursor.png)](Cursors/FlyingTuna/Selyu/cursor.png) |
 
-### Rafis
-
-| Blue | Light Green | Yellow Original |
-| --- | --- | --- |
-| [![Blue](Cursors/Rafis/Blue/cursor.png)](Cursors/Rafis/Blue/cursor.png) | [![Light Green](Cursors/Rafis/Light_Green/cursor.png)](Cursors/Rafis/Light_Green/cursor.png) | [![Yellow Original](Cursors/Rafis/Yellow_Original/cursor.png)](Cursors/Rafis/Yellow_Original/cursor.png) |
-
-### Xooty
-
-| Xooty Smile | Yellow Blue Tail |
-| --- | --- |
-| [![Xooty Smile](Cursors/Xooty/Xooty_Smile/cursor.png)](Cursors/Xooty/Xooty_Smile/cursor.png) | [![Yellow Blue Tail](Cursors/Xooty/Yellow_Blue_Tail/cursormiddle.png)](Cursors/Xooty/Yellow_Blue_Tail/cursormiddle.png) |
 
 
 ## <a name="cursor_customize">Curosr Customization</a>
