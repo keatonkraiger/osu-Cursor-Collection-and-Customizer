@@ -29,6 +29,14 @@
 ## <a name="about">About</a>
 **This is an *unofficial* collection of osu! cursors and tools to customize them.** I'll be continuously adding more cursors and customization tools to this repository. If you have any cursors you would like to add, please lmk.
 
+To change your cursor in osu!
+1. Download the zip file of the cursor you want to use and extract it.
+2. Open the skin folder you want to change.
+3. Move all files from the new folder into the skin folder.
+   1. You may need to remove old cursor files like the trail.
+   
+<img src="assets/change.gif" width="600" height="280" alt="Change cursor">
+
 ## <a name="cursors">Cursor Collection</a>
 
 Below is a collection of popular cursors for osu! std. These cursors are not mine, but I have collected them from various skins. If you are the creator of one of these cursors and would like it removed, please contact me.
@@ -65,7 +73,7 @@ Below is a collection of popular cursors for osu! std. These cursors are not min
 
 ### badeu
 
-| cursor.png |
+| badeu |
 | --- |
 | [![cursor.png](Cursors/badeu/cursor.png)](Cursors/badeu/cursor.png) |
 
