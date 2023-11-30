@@ -2,7 +2,7 @@
     <a href="https://github.com/keatonkraiger/osu-Cursor-Collection-and-Customizer">
         <img src="assets/logo.jpg" alt="logo" width="400" height="400">
     </a>
-
+    <br>
     osu! Cursor Collection and Customizer
 </h1>
 
@@ -16,6 +16,9 @@
   - [Xooty](#xooty)
   - [404](#404)
   - [FlyingTuna](#flyingtuna)
+  - [Lifeline](#lifeline)
+  - [badeu](#badeu)
+  - [Generic](#generic)
 - [Curosr Customization](#curosr-customization)
   - [Cursor Colorizer](#cursor-colorizer)
     - [Requirements](#requirements)
@@ -54,7 +57,23 @@ Below is a collection of popular cursors for osu! std. These cursors are not min
 | --- | --- |
 | [![MathiTuna](Cursors/FlyingTuna/MathiTuna/cursor.png)](Cursors/FlyingTuna/MathiTuna/cursor.png) | [![Selyu](Cursors/FlyingTuna/Selyu/cursor.png)](Cursors/FlyingTuna/Selyu/cursor.png) |
 
+### Lifeline
 
+| funorange edit | Kristiyan | Navy kantoku |
+| --- | --- | --- |
+| [![funorange edit](Cursors/Lifeline/funorange%20edit/cursor.png)](Cursors/Lifeline/funorange%20edit/cursor.png) | [![Kristiyan](Cursors/Lifeline/Kristiyan/cursor.png)](Cursors/Lifeline/Kristiyan/cursor.png) | [![Navy kantoku](Cursors/Lifeline/Navy%20kantoku/cursor.png)](Cursors/Lifeline/Navy%20kantoku/cursor.png) |
+
+### badeu
+
+| badeu |
+| --- |
+| [![cursor.png](Cursors/badeu/cursor.png)](Cursors/badeu/cursor.png) |
+
+### Generic
+
+| blue | Rampax cursor | Runa | Sonic | yellow |
+| --- | --- | --- | --- | --- |
+| [![blue](Cursors/Generic/blue/cursor.png)](Cursors/Generic/blue/cursor.png) | [![Rampax cursor](Cursors/Generic/Rampax%20cursor/cursor.png)](Cursors/Generic/Rampax%20cursor/cursor.png) | [![Runa](Cursors/Generic/Runa/cursor.png)](Cursors/Generic/Runa/cursor.png) | [![Sonic](Cursors/Generic/Sonic/cursor.png)](Cursors/Generic/Sonic/cursor.png) | [![yellow](Cursors/Generic/yellow/cursor.png)](Cursors/Generic/yellow/cursor.png) |
 
 ## <a name="cursor_customize">Curosr Customization</a>
 
