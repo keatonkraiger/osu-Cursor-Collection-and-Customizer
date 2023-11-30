@@ -12,7 +12,7 @@
 
 - [About](#about)
 - [Cursor Collection](#cursor-collection)
-  - [Rafis](#rafis)
+  - [rafis](#rafis)
   - [Xooty](#xooty)
   - [404](#404)
   - [FlyingTuna](#flyingtuna)
@@ -33,11 +33,11 @@
 
 Below is a collection of popular cursors for osu! std. These cursors are not mine, but I have collected them from various skins. If you are the creator of one of these cursors and would like it removed, please contact me.
 
-### Rafis
+### rafis
 
 | Blue | Light Green | Yellow Original |
 | --- | --- | --- |
-| [![Blue](Cursors/Rafis/Blue/cursor.png)](Cursors/Rafis/Blue/cursor.png) | [![Light Green](Cursors/Rafis/Light%20Green/cursor.png)](Cursors/Rafis/Light%20Green/cursor.png) | [![Yellow Original](Cursors/Rafis/Yellow%20Original/cursor.png)](Cursors/Rafis/Yellow%20Original/cursor.png) |
+| [![Blue](Cursors/rafis/Blue/cursor.png)](Cursors/rafis/Blue/cursor.png) | [![Light Green](Cursors/rafis/Light%20Green/cursor.png)](Cursors/rafis/Light%20Green/cursor.png) | [![Yellow Original](Cursors/rafis/Yellow%20Original/cursor.png)](Cursors/rafis/Yellow%20Original/cursor.png) |
 
 ### Xooty
 
@@ -65,7 +65,7 @@ Below is a collection of popular cursors for osu! std. These cursors are not min
 
 ### badeu
 
-| badeu |
+| cursor.png |
 | --- |
 | [![cursor.png](Cursors/badeu/cursor.png)](Cursors/badeu/cursor.png) |
 
@@ -74,6 +74,7 @@ Below is a collection of popular cursors for osu! std. These cursors are not min
 | blue | Rampax cursor | Runa | Sonic | yellow |
 | --- | --- | --- | --- | --- |
 | [![blue](Cursors/Generic/blue/cursor.png)](Cursors/Generic/blue/cursor.png) | [![Rampax cursor](Cursors/Generic/Rampax%20cursor/cursor.png)](Cursors/Generic/Rampax%20cursor/cursor.png) | [![Runa](Cursors/Generic/Runa/cursor.png)](Cursors/Generic/Runa/cursor.png) | [![Sonic](Cursors/Generic/Sonic/cursor.png)](Cursors/Generic/Sonic/cursor.png) | [![yellow](Cursors/Generic/yellow/cursor.png)](Cursors/Generic/yellow/cursor.png) |
+
 
 ## <a name="cursor_customize">Curosr Customization</a>
 
